@@ -10,3 +10,9 @@ The goal of the Health Insurance Cost Predictor project is to develop a user-fri
 * Accepts user input for age, BMI, and other health factors.
 * Predicts insurance costs based on the input.
 * Easy-to-use web interface.
+
+![image](https://github.com/user-attachments/assets/e3542327-3600-45f7-9fc0-36eaba9a94b2)
+
+
+This is the working app link
+https://health-insurance-cost-predictor.streamlit.app/
